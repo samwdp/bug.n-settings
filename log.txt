@@ -1,0 +1,1122 @@
+2018-10-10 13:51:27 ====== Initializing ======
+2018-10-10 13:51:47 ====== Running ======
+2018-10-10 14:11:11 ====== Cleaning up ======
+2018-10-10 14:11:12 ====== Exiting bug.n ======
+2018-10-10 14:11:13 ====== Initializing ======
+2018-10-10 14:11:14 Window ahk_id 0x2151e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-10 14:11:14 Window ahk_id 0xc149e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-10 14:11:14 ====== Running ======
+2018-10-10 14:13:16 ====== Cleaning up ======
+2018-10-10 14:13:16 ====== Exiting bug.n ======
+2018-10-10 21:28:34 ====== Initializing ======
+2018-10-10 21:28:34 View (2, 1) is no longer available (10)
+2018-10-10 21:28:34 View (2, 2) is no longer available (10)
+2018-10-10 21:28:34 View (2, 3) is no longer available (10)
+2018-10-10 21:28:34 View (2, 4) is no longer available (10)
+2018-10-10 21:28:34 View (2, 5) is no longer available (10)
+2018-10-10 21:28:34 View (2, 6) is no longer available (10)
+2018-10-10 21:28:34 View (2, 7) is no longer available (10)
+2018-10-10 21:28:34 View (2, 8) is no longer available (10)
+2018-10-10 21:28:34 View (2, 9) is no longer available (10)
+2018-10-10 21:28:34 Window ahk_id 0xa06d4 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x310c2 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x203e2 process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x81064 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0xe0b00 process '' doesn't match expected 'Code.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0xc108c process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x370d56 process '' doesn't match expected 'WinStore.App.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x1f0d08 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x102d4 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x1e122e process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x5019e process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x360ff2 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0xd0264 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x111030 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x201aa process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x101b0 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0xa03d6 process '' doesn't match expected 'Adobe Desktop Service.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x3f0a0e process '' doesn't match expected 'HxOutlook.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x210d4 process '' doesn't match expected 'SystemSettings.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x2a0fe6 process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x2e0a3e process '' doesn't match expected 'Code.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x240ba6 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x221040 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x2b0820 process '' doesn't match expected 'Code.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x1c11b2 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-10 21:28:34 Window ahk_id 0x41522 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-10 21:28:35 ====== Running ======
+2018-10-10 21:33:04 ====== Cleaning up ======
+2018-10-10 21:33:04 ====== Exiting bug.n ======
+2018-10-11 09:20:44 ====== Initializing ======
+2018-10-11 09:20:45 Window ahk_id 0x1049c process 'explorer.exe' doesn't match expected '', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x1049e process 'explorer.exe' doesn't match expected '', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x104a0 process 'explorer.exe' doesn't match expected '', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x20138 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x507b4 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x108a4 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x40272 process '' doesn't match expected 'Taskmgr.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x1068c process 'bugn.exe' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x10402 process 'Teams.exe' doesn't match expected 'lync.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x20178 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x6088e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x10192 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x500bc process '' doesn't match expected 'Adobe Desktop Service.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x8055e process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x40642 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x40644 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x30598 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x20058 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x705e0 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x3055c process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x80546 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x70286 process '' doesn't match expected 'SystemSettings.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x20968 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 09:20:45 Window ahk_id 0x409c2 process '' doesn't match expected 'ShellExperienceHost.exe', forgetting this window
+2018-10-11 09:20:45 ====== Running ======
+2018-10-11 10:10:10 ====== Cleaning up ======
+2018-10-11 10:10:10 ====== Exiting bug.n ======
+2018-10-11 10:11:51 ====== Initializing ======
+2018-10-11 10:11:52 Window ahk_id 0x10630 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 10:11:52 Window ahk_id 0x30210 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 10:11:52 ====== Running ======
+2018-10-11 10:33:56 ====== Cleaning up ======
+2018-10-11 10:33:57 ====== Exiting bug.n ======
+2018-10-11 12:38:40 ====== Initializing ======
+2018-10-11 12:38:40 Window ahk_id 0x1049a process 'chrome.exe' doesn't match expected '', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x1017a process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x10142 process 'explorer.exe' doesn't match expected '', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0xa04ba process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x103c8 process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x201aa process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x2013e process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0xc04d2 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x10488 process 'chrome.exe' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0xa0490 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x30540 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x3077a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x907d0 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x10004c process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x1090c process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x108b4 process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x208fe process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x707cc process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x10aa0 process '' doesn't match expected 'SystemSettings.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0xe02fe process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x50850 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x3e0a7e process '' doesn't match expected 'HxOutlook.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x1305ea process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x10b26 process '' doesn't match expected 'WinStore.App.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x20b02 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x10b92 process '' doesn't match expected 'SkypeApp.exe', forgetting this window
+2018-10-11 12:38:40 Window ahk_id 0x10b86 process '' doesn't match expected 'SkypeApp.exe', forgetting this window
+2018-10-11 12:38:40 ====== Running ======
+2018-10-11 12:58:20 ====== Cleaning up ======
+2018-10-11 12:58:20 ====== Exiting bug.n ======
+2018-10-11 12:58:20 ====== Initializing ======
+2018-10-11 12:58:21 Window ahk_id 0x503fc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 12:58:21 Window ahk_id 0x602ca process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 12:58:21 ====== Running ======
+2018-10-11 12:58:22 ====== Cleaning up ======
+2018-10-11 12:58:22 ====== Exiting bug.n ======
+2018-10-11 14:11:00 ====== Initializing ======
+2018-10-11 14:11:00 Window ahk_id 0x10716 process 'iexplore.exe' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x10718 process 'iexplore.exe' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x1071a process 'iexplore.exe' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x80880 process 'chrome.exe' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x10736 process 'iexplore.exe' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x107c2 process 'IEXPLORE.EXE' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x1076e process 'IEXPLORE.EXE' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x10770 process 'iexplore.exe' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x10772 process 'OUTLOOK.EXE' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x3061e process 'OUTLOOK.EXE' doesn't match expected '', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x1015a process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x1065a process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 14:11:00 Window ahk_id 0x101be process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 14:11:01 Window ahk_id 0x20350 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-11 14:11:01 Window ahk_id 0x203a2 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-11 14:11:01 Window ahk_id 0x303b2 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-11 14:11:01 Window ahk_id 0x130670 process '' doesn't match expected 'Code.exe', forgetting this window
+2018-10-11 14:11:02 ====== Running ======
+2018-10-11 14:13:35 ====== Cleaning up ======
+2018-10-11 14:13:35 ====== Exiting bug.n ======
+2018-10-11 16:38:50 ====== Initializing ======
+2018-10-11 16:38:52 Window ahk_id 0xb07e4 process 'POWERPNT.EXE' doesn't match expected '', forgetting this window
+2018-10-11 16:38:52 Window ahk_id 0x10ad0 process 'explorer.exe' doesn't match expected '', forgetting this window
+2018-10-11 16:38:52 Window ahk_id 0x10af8 process 'ServiceHub.Host.CLR.x86.exe' doesn't match expected '', forgetting this window
+2018-10-11 16:38:52 Window ahk_id 0x20696 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 16:38:52 Window ahk_id 0x4085c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 16:38:52 Window ahk_id 0x308d0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 16:38:56 ====== Running ======
+2018-10-11 16:41:53 ====== Cleaning up ======
+2018-10-11 16:41:54 ====== Exiting bug.n ======
+2018-10-11 17:09:04 ====== Initializing ======
+2018-10-11 17:09:06 Window ahk_id 0xf0aba process '' doesn't match expected 'notepad.exe', forgetting this window
+2018-10-11 17:09:06 Window ahk_id 0x2d0b3e process '' doesn't match expected '7zFM.exe', forgetting this window
+2018-10-11 17:09:06 Window ahk_id 0x1e05e6 process '' doesn't match expected 'notepad.exe', forgetting this window
+2018-10-11 17:09:06 Window ahk_id 0x1b08a6 process '' doesn't match expected 'Postman.exe', forgetting this window
+2018-10-11 17:09:06 Window ahk_id 0xb058a process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-11 17:09:06 Window ahk_id 0x30782 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-11 17:09:06 Window ahk_id 0xa0bbc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 17:09:06 Window ahk_id 0x1b05f4 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-11 17:09:06 Window ahk_id 0x8069e process '' doesn't match expected 'SystemSettings.exe', forgetting this window
+2018-10-11 17:09:11 ====== Running ======
+2018-10-12 11:27:37 ====== Initializing ======
+2018-10-12 11:27:37 View (2, 1) is no longer available (10)
+2018-10-12 11:27:37 View (2, 2) is no longer available (10)
+2018-10-12 11:27:38 View (2, 3) is no longer available (10)
+2018-10-12 11:27:38 View (2, 4) is no longer available (10)
+2018-10-12 11:27:38 View (2, 5) is no longer available (10)
+2018-10-12 11:27:38 View (2, 6) is no longer available (10)
+2018-10-12 11:27:38 View (2, 7) is no longer available (10)
+2018-10-12 11:27:38 View (2, 8) is no longer available (10)
+2018-10-12 11:27:38 View (2, 9) is no longer available (10)
+2018-10-12 11:27:38 Window ahk_id 0x6025c is being ignored because it doesn't exist in any views
+2018-10-12 11:27:38 Window ahk_id 0x20bb0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 11:27:38 Window ahk_id 0x1606ea process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 11:27:38 ====== Running ======
+2018-10-12 11:54:20 ====== Cleaning up ======
+2018-10-12 11:54:21 ====== Exiting bug.n ======
+2018-10-12 11:54:22 ====== Initializing ======
+2018-10-12 11:54:23 Window ahk_id 0x1f083c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 11:54:23 ====== Running ======
+2018-10-12 11:58:34 ====== Cleaning up ======
+2018-10-12 11:58:36 ====== Exiting bug.n ======
+2018-10-12 11:58:36 ====== Initializing ======
+2018-10-12 11:58:37 Window ahk_id 0x1007fa process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 11:58:38 ====== Running ======
+2018-10-12 12:00:42 ====== Cleaning up ======
+2018-10-12 12:00:44 ====== Exiting bug.n ======
+2018-10-12 12:00:44 ====== Initializing ======
+2018-10-12 12:00:47 Window ahk_id 0x1409d0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:00:47 ====== Running ======
+2018-10-12 12:00:51 ====== Cleaning up ======
+2018-10-12 12:00:53 ====== Exiting bug.n ======
+2018-10-12 12:00:53 ====== Initializing ======
+2018-10-12 12:00:55 Window ahk_id 0x26088e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:00:56 ====== Running ======
+2018-10-12 12:01:22 ====== Cleaning up ======
+2018-10-12 12:01:24 ====== Exiting bug.n ======
+2018-10-12 12:01:24 ====== Initializing ======
+2018-10-12 12:01:26 Window ahk_id 0x24083c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:01:27 ====== Running ======
+2018-10-12 12:01:46 ====== Cleaning up ======
+2018-10-12 12:01:48 ====== Exiting bug.n ======
+2018-10-12 12:01:48 ====== Initializing ======
+2018-10-12 12:01:50 Window ahk_id 0xf0884 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:01:50 ====== Running ======
+2018-10-12 12:02:33 ====== Cleaning up ======
+2018-10-12 12:02:35 ====== Exiting bug.n ======
+2018-10-12 12:02:35 ====== Initializing ======
+2018-10-12 12:02:37 Window ahk_id 0x220224 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:02:37 ====== Running ======
+2018-10-12 12:03:50 ====== Cleaning up ======
+2018-10-12 12:03:52 ====== Exiting bug.n ======
+2018-10-12 12:03:52 ====== Initializing ======
+2018-10-12 12:03:54 Window ahk_id 0x270a74 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:03:54 ====== Running ======
+2018-10-12 12:04:02 ====== Cleaning up ======
+2018-10-12 12:04:04 ====== Exiting bug.n ======
+2018-10-12 12:04:04 ====== Initializing ======
+2018-10-12 12:04:06 Window ahk_id 0x140abc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:04:06 ====== Running ======
+2018-10-12 12:04:48 ====== Cleaning up ======
+2018-10-12 12:04:50 ====== Exiting bug.n ======
+2018-10-12 12:04:50 ====== Initializing ======
+2018-10-12 12:04:52 Window ahk_id 0x490b86 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:04:53 ====== Running ======
+2018-10-12 12:05:12 ====== Cleaning up ======
+2018-10-12 12:05:14 ====== Exiting bug.n ======
+2018-10-12 12:05:14 ====== Initializing ======
+2018-10-12 12:05:16 Window ahk_id 0xb90a6e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 12:05:16 ====== Running ======
+2018-10-12 13:08:08 ====== Cleaning up ======
+2018-10-12 13:08:10 ====== Exiting bug.n ======
+2018-10-12 13:08:10 ====== Initializing ======
+2018-10-12 13:08:12 Window ahk_id 0xd307de process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:08:12 ====== Running ======
+2018-10-12 13:08:53 ====== Cleaning up ======
+2018-10-12 13:08:54 ====== Exiting bug.n ======
+2018-10-12 13:08:54 ====== Initializing ======
+2018-10-12 13:08:55 Window ahk_id 0x4e0b86 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:08:55 ====== Running ======
+2018-10-12 13:09:21 ====== Cleaning up ======
+2018-10-12 13:09:23 ====== Exiting bug.n ======
+2018-10-12 13:09:23 ====== Initializing ======
+2018-10-12 13:09:24 Window ahk_id 0xb0ae0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:09:24 ====== Running ======
+2018-10-12 13:09:37 ====== Cleaning up ======
+2018-10-12 13:09:39 ====== Exiting bug.n ======
+2018-10-12 13:09:39 ====== Initializing ======
+2018-10-12 13:09:40 Window ahk_id 0xae0618 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:09:40 ====== Running ======
+2018-10-12 13:10:37 ====== Cleaning up ======
+2018-10-12 13:10:39 ====== Exiting bug.n ======
+2018-10-12 13:10:39 ====== Initializing ======
+2018-10-12 13:10:40 Window ahk_id 0x2d06ac process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:10:40 ====== Running ======
+2018-10-12 13:10:58 ====== Cleaning up ======
+2018-10-12 13:10:59 ====== Exiting bug.n ======
+2018-10-12 13:10:59 ====== Initializing ======
+2018-10-12 13:11:00 Window ahk_id 0x2f4064c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:11:01 ====== Running ======
+2018-10-12 13:11:37 ====== Cleaning up ======
+2018-10-12 13:11:38 ====== Exiting bug.n ======
+2018-10-12 13:11:38 ====== Initializing ======
+2018-10-12 13:11:40 Window ahk_id 0x7e05dc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:11:40 ====== Running ======
+2018-10-12 13:11:53 ====== Cleaning up ======
+2018-10-12 13:11:54 ====== Exiting bug.n ======
+2018-10-12 13:11:54 ====== Initializing ======
+2018-10-12 13:11:56 Window ahk_id 0xec0b92 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:11:56 ====== Running ======
+2018-10-12 13:12:25 ====== Cleaning up ======
+2018-10-12 13:12:27 ====== Exiting bug.n ======
+2018-10-12 13:12:27 ====== Initializing ======
+2018-10-12 13:12:29 Window ahk_id 0x73066a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:12:29 ====== Running ======
+2018-10-12 13:12:42 ====== Cleaning up ======
+2018-10-12 13:12:44 ====== Exiting bug.n ======
+2018-10-12 13:12:44 ====== Initializing ======
+2018-10-12 13:12:45 Window ahk_id 0x2c0648 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:12:45 ====== Running ======
+2018-10-12 13:13:02 ====== Cleaning up ======
+2018-10-12 13:13:04 ====== Exiting bug.n ======
+2018-10-12 13:13:04 ====== Initializing ======
+2018-10-12 13:13:06 Window ahk_id 0x540916 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:13:06 ====== Running ======
+2018-10-12 13:13:47 ====== Cleaning up ======
+2018-10-12 13:13:48 ====== Exiting bug.n ======
+2018-10-12 13:13:49 ====== Initializing ======
+2018-10-12 13:13:50 Window ahk_id 0x1c007de process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:13:50 ====== Running ======
+2018-10-12 13:14:01 ====== Cleaning up ======
+2018-10-12 13:14:03 ====== Exiting bug.n ======
+2018-10-12 13:14:03 ====== Initializing ======
+2018-10-12 13:14:04 Window ahk_id 0x470a64 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:14:05 ====== Running ======
+2018-10-12 13:14:18 ====== Cleaning up ======
+2018-10-12 13:14:20 ====== Exiting bug.n ======
+2018-10-12 13:14:20 ====== Initializing ======
+2018-10-12 13:14:22 Window ahk_id 0xae07b6 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:14:22 ====== Running ======
+2018-10-12 13:15:00 ====== Cleaning up ======
+2018-10-12 13:15:02 ====== Exiting bug.n ======
+2018-10-12 13:15:02 ====== Initializing ======
+2018-10-12 13:15:03 Window ahk_id 0x50c3a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:15:03 ====== Running ======
+2018-10-12 13:15:17 ====== Cleaning up ======
+2018-10-12 13:15:18 ====== Exiting bug.n ======
+2018-10-12 13:15:19 ====== Initializing ======
+2018-10-12 13:15:20 Window ahk_id 0x4b0a64 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:15:20 ====== Running ======
+2018-10-12 13:15:31 ====== Cleaning up ======
+2018-10-12 13:15:32 ====== Exiting bug.n ======
+2018-10-12 13:15:32 ====== Initializing ======
+2018-10-12 13:15:34 Window ahk_id 0x6d044a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:15:34 ====== Running ======
+2018-10-12 13:15:47 ====== Cleaning up ======
+2018-10-12 13:15:48 ====== Exiting bug.n ======
+2018-10-12 13:15:48 ====== Initializing ======
+2018-10-12 13:15:50 Window ahk_id 0xfa075c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:15:50 ====== Running ======
+2018-10-12 13:16:02 ====== Cleaning up ======
+2018-10-12 13:16:04 ====== Exiting bug.n ======
+2018-10-12 13:16:04 ====== Initializing ======
+2018-10-12 13:16:06 Window ahk_id 0x4f0a64 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:16:06 ====== Running ======
+2018-10-12 13:16:20 ====== Cleaning up ======
+2018-10-12 13:16:22 ====== Exiting bug.n ======
+2018-10-12 13:16:22 ====== Initializing ======
+2018-10-12 13:16:23 Window ahk_id 0x530454 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:16:23 ====== Running ======
+2018-10-12 13:16:39 ====== Cleaning up ======
+2018-10-12 13:16:40 ====== Exiting bug.n ======
+2018-10-12 13:16:40 ====== Initializing ======
+2018-10-12 13:16:41 Window ahk_id 0x5c0c8c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:16:42 ====== Running ======
+2018-10-12 13:16:49 ====== Cleaning up ======
+2018-10-12 13:16:51 ====== Exiting bug.n ======
+2018-10-12 13:16:51 ====== Initializing ======
+2018-10-12 13:16:52 Window ahk_id 0x10102ca process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:16:52 ====== Running ======
+2018-10-12 13:17:33 ====== Cleaning up ======
+2018-10-12 13:17:35 ====== Exiting bug.n ======
+2018-10-12 13:17:35 ====== Initializing ======
+2018-10-12 13:17:36 Window ahk_id 0xc809cc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:17:36 ====== Running ======
+2018-10-12 13:18:00 ====== Cleaning up ======
+2018-10-12 13:18:02 ====== Exiting bug.n ======
+2018-10-12 13:18:02 ====== Initializing ======
+2018-10-12 13:18:04 Window ahk_id 0x15201c0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:18:04 ====== Running ======
+2018-10-12 13:18:15 ====== Cleaning up ======
+2018-10-12 13:18:17 ====== Exiting bug.n ======
+2018-10-12 13:18:17 ====== Initializing ======
+2018-10-12 13:18:19 Window ahk_id 0x78044a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:18:19 ====== Running ======
+2018-10-12 13:18:44 ====== Cleaning up ======
+2018-10-12 13:18:45 ====== Exiting bug.n ======
+2018-10-12 13:18:45 ====== Initializing ======
+2018-10-12 13:18:47 Window ahk_id 0xcc09cc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:18:47 ====== Running ======
+2018-10-12 13:18:59 ====== Cleaning up ======
+2018-10-12 13:19:01 ====== Exiting bug.n ======
+2018-10-12 13:19:01 ====== Initializing ======
+2018-10-12 13:19:02 Window ahk_id 0x15601c0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:19:02 ====== Running ======
+2018-10-12 13:19:13 ====== Cleaning up ======
+2018-10-12 13:19:14 ====== Exiting bug.n ======
+2018-10-12 13:19:15 ====== Initializing ======
+2018-10-12 13:19:16 Window ahk_id 0x7c044a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:19:16 ====== Running ======
+2018-10-12 13:21:27 ====== Cleaning up ======
+2018-10-12 13:21:29 ====== Exiting bug.n ======
+2018-10-12 13:21:29 ====== Initializing ======
+2018-10-12 13:21:30 Window ahk_id 0xd009cc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:21:30 ====== Running ======
+2018-10-12 13:22:06 ====== Cleaning up ======
+2018-10-12 13:22:07 ====== Exiting bug.n ======
+2018-10-12 13:22:07 ====== Initializing ======
+2018-10-12 13:22:09 Window ahk_id 0x15a01c0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:22:09 ====== Running ======
+2018-10-12 13:22:21 ====== Cleaning up ======
+2018-10-12 13:22:23 ====== Exiting bug.n ======
+2018-10-12 13:22:23 ====== Initializing ======
+2018-10-12 13:22:24 Window ahk_id 0x80044a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:22:24 ====== Running ======
+2018-10-12 13:22:44 ====== Cleaning up ======
+2018-10-12 13:22:45 ====== Exiting bug.n ======
+2018-10-12 13:22:46 ====== Initializing ======
+2018-10-12 13:22:47 Window ahk_id 0x5d0814 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:22:47 ====== Running ======
+2018-10-12 13:23:02 ====== Cleaning up ======
+2018-10-12 13:23:04 ====== Exiting bug.n ======
+2018-10-12 13:23:04 ====== Initializing ======
+2018-10-12 13:23:05 Window ahk_id 0x320c8a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:23:06 ====== Running ======
+2018-10-12 13:23:27 ====== Cleaning up ======
+2018-10-12 13:23:28 ====== Exiting bug.n ======
+2018-10-12 13:23:29 ====== Initializing ======
+2018-10-12 13:23:30 Window ahk_id 0x121088e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:23:30 ====== Running ======
+2018-10-12 13:23:43 ====== Cleaning up ======
+2018-10-12 13:23:45 ====== Exiting bug.n ======
+2018-10-12 13:23:45 ====== Initializing ======
+2018-10-12 13:23:46 Window ahk_id 0x610814 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:23:47 ====== Running ======
+2018-10-12 13:23:59 ====== Cleaning up ======
+2018-10-12 13:24:01 ====== Exiting bug.n ======
+2018-10-12 13:24:01 ====== Initializing ======
+2018-10-12 13:24:02 Window ahk_id 0x1130c8c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:24:03 ====== Running ======
+2018-10-12 13:24:12 ====== Cleaning up ======
+2018-10-12 13:24:13 ====== Exiting bug.n ======
+2018-10-12 13:24:13 ====== Initializing ======
+2018-10-12 13:24:15 Window ahk_id 0x16e0c88 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:24:15 ====== Running ======
+2018-10-12 13:24:28 ====== Cleaning up ======
+2018-10-12 13:24:30 ====== Exiting bug.n ======
+2018-10-12 13:24:30 ====== Initializing ======
+2018-10-12 13:24:31 Window ahk_id 0xf80454 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:24:31 ====== Running ======
+2018-10-12 13:24:40 ====== Cleaning up ======
+2018-10-12 13:24:42 ====== Exiting bug.n ======
+2018-10-12 13:24:42 ====== Initializing ======
+2018-10-12 13:24:44 Window ahk_id 0x2150948 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:24:44 ====== Running ======
+2018-10-12 13:24:49 ====== Cleaning up ======
+2018-10-12 13:24:51 ====== Exiting bug.n ======
+2018-10-12 13:24:51 ====== Initializing ======
+2018-10-12 13:24:52 Window ahk_id 0xa50224 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:24:53 ====== Running ======
+2018-10-12 13:25:15 ====== Cleaning up ======
+2018-10-12 13:25:17 ====== Exiting bug.n ======
+2018-10-12 13:25:17 ====== Initializing ======
+2018-10-12 13:25:18 Window ahk_id 0x11a0c90 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:25:18 ====== Running ======
+2018-10-12 13:25:25 ====== Cleaning up ======
+2018-10-12 13:25:27 ====== Exiting bug.n ======
+2018-10-12 13:25:27 ====== Initializing ======
+2018-10-12 13:25:28 Window ahk_id 0xf40baa process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:25:29 ====== Running ======
+2018-10-12 13:25:58 ====== Cleaning up ======
+2018-10-12 13:25:59 ====== Exiting bug.n ======
+2018-10-12 13:25:59 ====== Initializing ======
+2018-10-12 13:26:01 Window ahk_id 0x13206c4 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:26:01 ====== Running ======
+2018-10-12 13:26:11 ====== Cleaning up ======
+2018-10-12 13:26:13 ====== Exiting bug.n ======
+2018-10-12 13:26:13 ====== Initializing ======
+2018-10-12 13:26:14 Window ahk_id 0x4c05d8 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:26:14 ====== Running ======
+2018-10-12 13:26:21 ====== Cleaning up ======
+2018-10-12 13:26:22 ====== Exiting bug.n ======
+2018-10-12 13:26:23 ====== Initializing ======
+2018-10-12 13:26:24 Window ahk_id 0x11f0c90 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:26:24 ====== Running ======
+2018-10-12 13:26:43 ====== Cleaning up ======
+2018-10-12 13:26:44 ====== Exiting bug.n ======
+2018-10-12 13:26:45 ====== Initializing ======
+2018-10-12 13:26:46 Window ahk_id 0xc90994 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:26:46 ====== Running ======
+2018-10-12 13:27:17 ====== Cleaning up ======
+2018-10-12 13:27:18 ====== Exiting bug.n ======
+2018-10-12 13:27:18 ====== Initializing ======
+2018-10-12 13:27:20 Window ahk_id 0x5005d8 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:27:20 ====== Running ======
+2018-10-12 13:28:37 ====== Cleaning up ======
+2018-10-12 13:28:39 ====== Exiting bug.n ======
+2018-10-12 13:28:39 ====== Initializing ======
+2018-10-12 13:28:40 Window ahk_id 0x4b0480 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:28:40 ====== Running ======
+2018-10-12 13:29:15 ====== Cleaning up ======
+2018-10-12 13:29:17 ====== Exiting bug.n ======
+2018-10-12 13:29:17 ====== Initializing ======
+2018-10-12 13:29:18 Window ahk_id 0x25c044a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:29:18 ====== Running ======
+2018-10-12 13:29:55 ====== Cleaning up ======
+2018-10-12 13:29:57 ====== Exiting bug.n ======
+2018-10-12 13:29:57 ====== Initializing ======
+2018-10-12 13:29:58 Window ahk_id 0xb90224 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:29:58 ====== Running ======
+2018-10-12 13:38:47 ====== Cleaning up ======
+2018-10-12 13:38:50 ====== Exiting bug.n ======
+2018-10-12 13:39:20 ====== Initializing ======
+2018-10-12 13:39:21 Window ahk_id 0x3504a4 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:39:23 ====== Running ======
+2018-10-12 13:42:17 ====== Cleaning up ======
+2018-10-12 13:42:20 ====== Exiting bug.n ======
+2018-10-12 13:44:59 ====== Initializing ======
+2018-10-12 13:45:01 Window ahk_id 0x780c64 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:45:01 Window ahk_id 0x40d02 process '' doesn't match expected 'powershell.exe', forgetting this window
+2018-10-12 13:45:01 ====== Running ======
+2018-10-12 13:48:29 ====== Cleaning up ======
+2018-10-12 13:48:32 ====== Exiting bug.n ======
+2018-10-12 13:48:34 ====== Initializing ======
+2018-10-12 13:48:37 Window ahk_id 0xf0942 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:48:37 ====== Running ======
+2018-10-12 13:49:01 ====== Cleaning up ======
+2018-10-12 13:49:04 ====== Exiting bug.n ======
+2018-10-12 13:49:05 ====== Initializing ======
+2018-10-12 13:49:07 Window ahk_id 0x23d0632 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:49:08 ====== Running ======
+2018-10-12 13:51:10 ====== Cleaning up ======
+2018-10-12 13:51:13 ====== Exiting bug.n ======
+2018-10-12 13:51:15 ====== Initializing ======
+2018-10-12 13:51:18 Window ahk_id 0xc0d18 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:51:18 Window ahk_id 0x21a0a64 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:51:18 ====== Running ======
+2018-10-12 13:51:34 ====== Cleaning up ======
+2018-10-12 13:51:38 ====== Exiting bug.n ======
+2018-10-12 13:51:38 ====== Initializing ======
+2018-10-12 13:51:41 Window ahk_id 0x7209d2 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:51:41 ====== Running ======
+2018-10-12 13:53:43 ====== Cleaning up ======
+2018-10-12 13:53:45 ====== Exiting bug.n ======
+2018-10-12 13:53:58 ====== Initializing ======
+2018-10-12 13:54:00 Window ahk_id 0x3d0cfa process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 13:54:00 ====== Running ======
+2018-10-12 13:58:33 ====== Cleaning up ======
+2018-10-12 13:58:36 ====== Exiting bug.n ======
+2018-10-12 14:00:31 ====== Initializing ======
+2018-10-12 14:00:31 Window ahk_id 0x1b0402 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-12 14:00:32 Window ahk_id 0xc80bb0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 14:00:32 ====== Running ======
+2018-10-12 14:01:00 ====== Cleaning up ======
+2018-10-12 14:01:01 ====== Exiting bug.n ======
+2018-10-12 14:01:26 ====== Initializing ======
+2018-10-12 14:01:27 Window ahk_id 0x470c72 process '' doesn't match expected 'AutoHotkey.exe', forgetting this window
+2018-10-12 14:01:27 ====== Running ======
+2018-10-12 14:04:32 ====== Cleaning up ======
+2018-10-12 14:04:33 ====== Exiting bug.n ======
+2018-10-12 14:05:19 ====== Initializing ======
+2018-10-12 14:05:21 Window ahk_id 0x730b94 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-12 14:05:21 ====== Running ======
+2018-10-12 14:07:13 ====== Initializing ======
+2018-10-12 14:07:14 ====== Running ======
+2018-10-12 15:30:25 ====== Cleaning up ======
+2018-10-12 15:30:29 ====== Exiting bug.n ======
+2018-10-12 15:30:36 ====== Initializing ======
+2018-10-12 15:30:37 Window ahk_id 0x3006e6 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 15:30:37 ====== Running ======
+2018-10-12 15:40:58 ====== Cleaning up ======
+2018-10-12 15:41:00 ====== Exiting bug.n ======
+2018-10-12 15:50:30 ====== Cleaning up ======
+2018-10-12 15:50:31 ====== Exiting bug.n ======
+2018-10-12 15:53:13 ====== Initializing ======
+2018-10-12 15:53:14 Window ahk_id 0x2250c3a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 15:53:14 Window ahk_id 0x110bec process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-12 15:53:14 Window ahk_id 0x170b0c process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-12 15:53:14 Window ahk_id 0x30e68 process '' doesn't match expected 'mspaint.exe', forgetting this window
+2018-10-12 15:53:15 ====== Running ======
+2018-10-12 15:55:48 ====== Cleaning up ======
+2018-10-12 15:55:49 ====== Exiting bug.n ======
+2018-10-12 16:51:09 ====== Initializing ======
+2018-10-12 16:51:10 Window ahk_id 0x1b09bc process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-12 16:51:10 Window ahk_id 0x250f7e process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-12 16:51:11 Window ahk_id 0xdd085c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 16:51:11 Window ahk_id 0x61016 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-12 16:51:11 Window ahk_id 0x60dc6 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-12 16:51:13 ====== Running ======
+2018-10-12 16:51:23 ====== Cleaning up ======
+2018-10-12 16:51:24 ====== Exiting bug.n ======
+2018-10-15 09:29:11 ====== Initializing ======
+2018-10-15 09:29:11 Window ahk_id 0xb0988 process '' doesn't match expected 'iexplore.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x10446 process 'SurfaceDTX.exe' doesn't match expected '', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x101ac process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x20442 process 'RuntimeBroker.exe' doesn't match expected '', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x60440 process 'SurfaceDTX.exe' doesn't match expected '', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x30108 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x105b8 process 'lync.exe' doesn't match expected '', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x2017a process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x101d0 process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x805fe process '' doesn't match expected 'SkypeApp.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x40766 process '' doesn't match expected 'SkypeApp.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x906ca process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x120734 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x40728 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x506f8 process '' doesn't match expected 'WinStore.App.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x2072e process '' doesn't match expected 'HxOutlook.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x5080e process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x50836 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x205bc process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x30a92 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0xc0468 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x408f0 process '' doesn't match expected 'ShellExperienceHost.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x100ba4 process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0xa09a2 process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x703ea process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x2e0340 process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x5e0df2 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x140a76 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x90c62 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x1c0a04 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x3f0d72 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x1bc0332 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0xcb0a6c process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x1a0914 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x160d42 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x68051a process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x50f66 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x2006c process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x90d22 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x2b00c4 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x160aae process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x160fc4 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-15 09:29:11 Window ahk_id 0x170f90 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x1b0d3c process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x60faa process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0xc06f4 process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x460a1a process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0xa0edc process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x710be process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x200b20 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x130688 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x470526 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x1d0fc0 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x1fc0798 process '' doesn't match expected 'POWERPNT.EXE', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0xd0f44 process '' doesn't match expected 'MicrosoftEdgeCP.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x120ed6 process '' doesn't match expected 'MicrosoftEdgeCP.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x2b03e0 process '' doesn't match expected 'MicrosoftEdge.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x10606d4 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x1d0858 process '' doesn't match expected 'SystemSettings.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x950d9a process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0xd0d0c process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x110b1a process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x31178 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-15 09:29:12 Window ahk_id 0x32098a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-15 09:29:12 ====== Running ======
+2018-10-15 10:54:49 ====== Cleaning up ======
+2018-10-15 10:54:50 ====== Exiting bug.n ======
+2018-10-15 10:56:23 ====== Initializing ======
+2018-10-15 10:56:23 Window ahk_id 0x10664 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-15 10:56:23 Window ahk_id 0x30602 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-15 10:56:23 Window ahk_id 0xd05d2 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-15 10:56:23 Window ahk_id 0xa0782 process '' doesn't match expected 'Code.exe', forgetting this window
+2018-10-15 10:56:23 ====== Running ======
+2018-10-15 10:58:11 ====== Cleaning up ======
+2018-10-15 10:58:12 ====== Exiting bug.n ======
+2018-10-15 10:58:20 ====== Initializing ======
+2018-10-15 10:58:20 Window ahk_id 0x50626 process 'Main.exe' doesn't match expected '', forgetting this window
+2018-10-15 10:58:20 Window ahk_id 0x40634 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 10:58:20 Window ahk_id 0x606a4 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 10:58:20 ====== Running ======
+2018-10-15 11:04:53 ====== Cleaning up ======
+2018-10-15 11:04:54 ====== Exiting bug.n ======
+2018-10-15 11:04:54 ====== Initializing ======
+2018-10-15 11:04:55 Window ahk_id 0x5078e process 'Main.exe' doesn't match expected '', forgetting this window
+2018-10-15 11:04:55 Window ahk_id 0xa07a8 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:04:55 Window ahk_id 0xd0586 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:04:55 ====== Running ======
+2018-10-15 11:06:11 ====== Cleaning up ======
+2018-10-15 11:06:12 ====== Exiting bug.n ======
+2018-10-15 11:06:12 ====== Initializing ======
+2018-10-15 11:06:12 Window ahk_id 0x806bc process 'Main.exe' doesn't match expected '', forgetting this window
+2018-10-15 11:06:12 Window ahk_id 0x707f2 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:06:12 Window ahk_id 0x606c4 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:06:12 ====== Running ======
+2018-10-15 11:08:48 ====== Cleaning up ======
+2018-10-15 11:08:48 ====== Exiting bug.n ======
+2018-10-15 11:08:49 ====== Initializing ======
+2018-10-15 11:08:49 Window ahk_id 0x906bc process 'Main.exe' doesn't match expected '', forgetting this window
+2018-10-15 11:08:49 Window ahk_id 0x301e6 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:08:49 Window ahk_id 0xb07ca process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:08:49 ====== Running ======
+2018-10-15 11:10:31 ====== Cleaning up ======
+2018-10-15 11:10:31 ====== Exiting bug.n ======
+2018-10-15 11:10:31 ====== Initializing ======
+2018-10-15 11:10:31 Window ahk_id 0xa06bc process 'Main.exe' doesn't match expected '', forgetting this window
+2018-10-15 11:10:31 Window ahk_id 0xa0792 process 'Main.exe' doesn't match expected '', forgetting this window
+2018-10-15 11:10:32 Window ahk_id 0x906ba process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:10:32 Window ahk_id 0x806c6 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:10:32 ====== Running ======
+2018-10-15 11:13:34 ====== Cleaning up ======
+2018-10-15 11:13:35 ====== Exiting bug.n ======
+2018-10-15 11:13:35 ====== Initializing ======
+2018-10-15 11:13:35 Window ahk_id 0x40432 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:13:35 Window ahk_id 0x601e6 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:13:36 ====== Running ======
+2018-10-15 11:13:55 ====== Cleaning up ======
+2018-10-15 11:13:56 ====== Exiting bug.n ======
+2018-10-15 11:13:56 ====== Initializing ======
+2018-10-15 11:13:57 Window ahk_id 0x90764 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:13:57 Window ahk_id 0xf07ca process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-15 11:13:57 ====== Running ======
+2018-10-16 10:11:32 ====== Cleaning up ======
+2018-10-16 10:11:44 ====== Exiting bug.n ======
+2018-10-16 10:46:32 ====== Initializing ======
+2018-10-16 10:46:33 Window ahk_id 0xc06c0 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-16 10:46:33 Window ahk_id 0xe0048 process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-16 10:46:33 Window ahk_id 0x2136e process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-16 10:46:34 Window ahk_id 0xa07bc process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-16 10:46:34 Window ahk_id 0x1212b6 process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-16 10:46:34 Window ahk_id 0xd07ec process '' doesn't match expected 'Main.exe', forgetting this window
+2018-10-16 10:46:35 ====== Running ======
+2018-10-16 17:13:57 ====== Cleaning up ======
+2018-10-16 17:14:01 ====== Exiting bug.n ======
+2018-10-17 09:35:51 ====== Initializing ======
+2018-10-17 09:35:51 Window ahk_id 0x80e44 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x4140a process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x1018c process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x8083e process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x20268 process 'RuntimeBroker.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x10442 process 'Teams.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x10444 process 'Teams.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x10440 process 'Teams.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x10190 process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x1018a process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x101d6 process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x30aa0 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x50a8a process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x1a0826 process '' doesn't match expected 'WindowsInternal.ComposableShell.Experiences.TextInput.InputApp.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x130bb0 process '' doesn't match expected 'MicrosoftEdge.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x5008a process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x105b0 process 'bugn.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x105b2 process 'bugn.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x105b4 process 'bugn.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x203c2 process 'OneDrive.exe' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x201a4 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x10202 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x101fc process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x101ea process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x20578 process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x202ec process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x30376 process 'MSASCuiL.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x10704 process '' doesn't match expected 'WinStore.App.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x106e8 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0xd06e4 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x340fdc process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x40094 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x3a0f7a process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x2108c process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x5f09d8 process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x210a0 process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x80856 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x806d8 process '' doesn't match expected 'Postman.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0xe0f44 process '' doesn't match expected 'Code.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x5e0860 process '' doesn't match expected 'Code.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x20ddc process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x116ea process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x2168a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x2b080a process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-17 09:35:51 Window ahk_id 0x1a0586 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x40c4c process '' doesn't match expected 'devenv.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x40bbc process '' doesn't match expected 'devenv.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x50a98 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x60a3c process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x506d6 process '' doesn't match expected 'SystemSettings.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x23032c process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x4d0da2 process '' doesn't match expected 'HxOutlook.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x100be6 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x50a84 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x70a56 process '' doesn't match expected 'Code.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0xb0c62 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x170a4e process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x360d36 process '' doesn't match expected 'cmd.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x30131a process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0xc0ac4 process '' doesn't match expected 'ssms.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x70aca process '' doesn't match expected 'ssms.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x1970d28 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x909a0 process '' doesn't match expected 'PowerShell.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0xc033a process '' doesn't match expected 'powershell.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x200b10 process '' doesn't match expected 'MicrosoftEdge.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x120be0 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x1a098c process '' doesn't match expected 'MicrosoftEdgeCP.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x15130c process '' doesn't match expected 'MicrosoftEdgeCP.exe', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0xe0a02 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x150b5c process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0xa0cf6 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x221440 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0xd0d52 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0x90ab6 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 09:35:52 Window ahk_id 0xa0fb0 process '' doesn't match expected 'MSACCESS.EXE', forgetting this window
+2018-10-17 09:35:53 ====== Running ======
+2018-10-17 09:38:53 ====== Cleaning up ======
+2018-10-17 09:38:54 ====== Exiting bug.n ======
+2018-10-17 09:45:39 ====== Initializing ======
+2018-10-17 09:45:39 Window ahk_id 0x10158 process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x20440 process 'explorer.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x20422 process 'OneDrive.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x403c2 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x30372 process '' doesn't match expected 'OneDrive.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x307a2 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x307b2 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x503a4 process 'explorer.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x10180 process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x202c8 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x104c0 process 'lync.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x104c2 process 'lync.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x104c4 process 'lync.exe' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x2050a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x101d6 process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x101d0 process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x101be process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x1041c process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x40852 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x3072e process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x201fe process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x201c0 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x201cc process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x201ea process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x30128 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x2018e process '' doesn't match expected 'ShellExperienceHost.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x3039c process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x403aa process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 09:45:39 Window ahk_id 0x8035e process '' doesn't match expected '7zFM.exe', forgetting this window
+2018-10-17 09:45:39 ====== Running ======
+2018-10-17 09:47:18 ====== Cleaning up ======
+2018-10-17 09:47:19 ====== Exiting bug.n ======
+2018-10-17 12:11:24 ====== Initializing ======
+2018-10-17 12:11:24 Window ahk_id 0x5032c process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x10496 process 'bugn.exe' doesn't match expected '', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x203b6 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x10566 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x203d6 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x20328 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x70338 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x1059e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x50536 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x2048e process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x201c4 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x4028e process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x600d0 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x20320 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x20360 process 'Teams.exe' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x400c8 process 'TabTip.exe' doesn't match expected 'powershell.exe', forgetting this window
+2018-10-17 12:11:24 Window ahk_id 0x20248 process '' doesn't match expected 'cmd.exe', forgetting this window
+2018-10-17 12:11:24 ====== Running ======
+2018-10-17 12:13:03 ====== Cleaning up ======
+2018-10-17 12:13:03 ====== Exiting bug.n ======
+2018-10-17 12:13:03 ====== Initializing ======
+2018-10-17 12:13:03 Window ahk_id 0x204d6 process 'bugn.exe' doesn't match expected '', forgetting this window
+2018-10-17 12:13:03 Window ahk_id 0x104d2 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:13:03 Window ahk_id 0x20466 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:13:03 ====== Running ======
+2018-10-17 12:13:34 ====== Cleaning up ======
+2018-10-17 12:13:34 ====== Exiting bug.n ======
+2018-10-17 12:13:34 ====== Initializing ======
+2018-10-17 12:13:34 Window ahk_id 0x4047a process 'Explorer.EXE' doesn't match expected '', forgetting this window
+2018-10-17 12:13:34 Window ahk_id 0x2044c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:13:34 Window ahk_id 0x30466 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:13:34 ====== Running ======
+2018-10-17 12:15:39 ====== Cleaning up ======
+2018-10-17 12:15:39 ====== Exiting bug.n ======
+2018-10-17 12:15:40 ====== Initializing ======
+2018-10-17 12:15:50 ====== Cleaning up ======
+2018-10-17 12:15:50 ====== Exiting bug.n ======
+2018-10-17 12:15:50 ====== Initializing ======
+2018-10-17 12:16:01 ====== Cleaning up ======
+2018-10-17 12:16:01 ====== Exiting bug.n ======
+2018-10-17 12:16:01 ====== Initializing ======
+2018-10-17 12:16:01 ====== Running ======
+2018-10-17 12:16:16 ====== Cleaning up ======
+2018-10-17 12:16:16 ====== Exiting bug.n ======
+2018-10-17 12:16:16 ====== Initializing ======
+2018-10-17 12:16:16 Window ahk_id 0x404de process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:16:17 Window ahk_id 0x704d0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:16:17 ====== Running ======
+2018-10-17 12:16:29 ====== Cleaning up ======
+2018-10-17 12:16:29 ====== Exiting bug.n ======
+2018-10-17 12:16:29 ====== Initializing ======
+2018-10-17 12:16:29 Window ahk_id 0x504e0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:16:29 Window ahk_id 0x1200cc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:16:29 ====== Running ======
+2018-10-17 12:16:39 ====== Cleaning up ======
+2018-10-17 12:16:39 ====== Exiting bug.n ======
+2018-10-17 12:16:40 ====== Initializing ======
+2018-10-17 12:16:40 Window ahk_id 0x60536 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:16:40 Window ahk_id 0x9044c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:16:40 ====== Running ======
+2018-10-17 12:16:50 ====== Cleaning up ======
+2018-10-17 12:16:50 ====== Exiting bug.n ======
+2018-10-17 12:16:51 ====== Initializing ======
+2018-10-17 12:16:51 Window ahk_id 0x904dc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:16:51 Window ahk_id 0x804e0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:16:51 ====== Running ======
+2018-10-17 12:17:12 ====== Cleaning up ======
+2018-10-17 12:17:12 ====== Exiting bug.n ======
+2018-10-17 12:17:12 ====== Initializing ======
+2018-10-17 12:17:12 Window ahk_id 0xd043e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:17:12 Window ahk_id 0x1600cc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:17:13 ====== Running ======
+2018-10-17 12:17:19 ====== Cleaning up ======
+2018-10-17 12:17:19 ====== Exiting bug.n ======
+2018-10-17 12:17:20 ====== Initializing ======
+2018-10-17 12:17:20 Window ahk_id 0xc02b0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:17:20 Window ahk_id 0xd044c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:17:20 ====== Running ======
+2018-10-17 12:17:29 ====== Cleaning up ======
+2018-10-17 12:17:30 ====== Exiting bug.n ======
+2018-10-17 12:17:30 ====== Initializing ======
+2018-10-17 12:17:30 Window ahk_id 0xa0534 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:17:30 Window ahk_id 0xf02c8 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:17:30 ====== Running ======
+2018-10-17 12:20:56 ====== Cleaning up ======
+2018-10-17 12:20:56 ====== Exiting bug.n ======
+2018-10-17 12:20:56 ====== Initializing ======
+2018-10-17 12:20:56 Window ahk_id 0xd0462 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:20:56 Window ahk_id 0xf02b0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:20:57 ====== Running ======
+2018-10-17 12:22:56 ====== Cleaning up ======
+2018-10-17 12:22:56 ====== Exiting bug.n ======
+2018-10-17 12:22:56 ====== Initializing ======
+2018-10-17 12:22:57 Window ahk_id 0x11044c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:22:57 Window ahk_id 0x6036e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:22:57 ====== Running ======
+2018-10-17 12:23:33 ====== Cleaning up ======
+2018-10-17 12:23:33 ====== Exiting bug.n ======
+2018-10-17 12:23:33 ====== Initializing ======
+2018-10-17 12:23:33 Window ahk_id 0x7036e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:23:33 Window ahk_id 0x1c00cc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:23:34 ====== Running ======
+2018-10-17 12:24:21 ====== Cleaning up ======
+2018-10-17 12:24:22 ====== Exiting bug.n ======
+2018-10-17 12:24:22 ====== Initializing ======
+2018-10-17 12:24:22 Window ahk_id 0xf04c8 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:24:22 Window ahk_id 0xc04d6 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:24:22 ====== Running ======
+2018-10-17 12:25:36 ====== Cleaning up ======
+2018-10-17 12:25:37 ====== Exiting bug.n ======
+2018-10-17 12:25:37 ====== Initializing ======
+2018-10-17 12:25:37 Window ahk_id 0xf04d4 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:25:37 Window ahk_id 0x1404d0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:25:37 ====== Running ======
+2018-10-17 12:26:17 ====== Cleaning up ======
+2018-10-17 12:26:17 ====== Exiting bug.n ======
+2018-10-17 12:26:18 ====== Initializing ======
+2018-10-17 12:26:18 Window ahk_id 0x12021a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:26:18 Window ahk_id 0x1f00cc process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:26:18 ====== Running ======
+2018-10-17 12:26:23 ====== Cleaning up ======
+2018-10-17 12:26:24 ====== Exiting bug.n ======
+2018-10-17 12:26:24 ====== Initializing ======
+2018-10-17 12:26:24 Window ahk_id 0x130462 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:26:24 Window ahk_id 0x160100 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:26:24 ====== Running ======
+2018-10-17 12:27:13 ====== Cleaning up ======
+2018-10-17 12:27:13 ====== Exiting bug.n ======
+2018-10-17 12:27:13 ====== Initializing ======
+2018-10-17 12:27:13 Window ahk_id 0x10047e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:27:13 Window ahk_id 0x15021a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:27:13 ====== Running ======
+2018-10-17 12:27:17 ====== Cleaning up ======
+2018-10-17 12:27:18 ====== Exiting bug.n ======
+2018-10-17 12:27:18 ====== Initializing ======
+2018-10-17 12:27:19 ====== Running ======
+2018-10-17 12:28:23 ====== Cleaning up ======
+2018-10-17 12:28:24 ====== Exiting bug.n ======
+2018-10-17 12:28:24 ====== Initializing ======
+2018-10-17 12:28:24 Window ahk_id 0x1a0100 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:28:24 Window ahk_id 0x1404d2 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:28:25 ====== Running ======
+2018-10-17 12:28:30 ====== Cleaning up ======
+2018-10-17 12:28:31 ====== Exiting bug.n ======
+2018-10-17 12:28:31 ====== Initializing ======
+2018-10-17 12:28:31 Window ahk_id 0x1504d2 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:28:31 Window ahk_id 0x1b044c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:28:31 ====== Running ======
+2018-10-17 12:28:57 ====== Cleaning up ======
+2018-10-17 12:28:57 ====== Exiting bug.n ======
+2018-10-17 12:28:57 ====== Initializing ======
+2018-10-17 12:28:57 Window ahk_id 0x16052a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:28:57 Window ahk_id 0x1002ea process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:28:57 ====== Running ======
+2018-10-17 12:29:18 ====== Cleaning up ======
+2018-10-17 12:29:18 ====== Exiting bug.n ======
+2018-10-17 12:29:19 ====== Initializing ======
+2018-10-17 12:29:19 Window ahk_id 0x1003f0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:29:19 Window ahk_id 0x1200e4 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:29:19 ====== Running ======
+2018-10-17 12:29:35 ====== Cleaning up ======
+2018-10-17 12:29:35 ====== Exiting bug.n ======
+2018-10-17 12:29:35 ====== Initializing ======
+2018-10-17 12:29:36 Window ahk_id 0x1f044c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:29:36 Window ahk_id 0x190090 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:29:36 ====== Running ======
+2018-10-17 12:30:15 ====== Cleaning up ======
+2018-10-17 12:30:15 ====== Exiting bug.n ======
+2018-10-17 12:30:16 ====== Initializing ======
+2018-10-17 12:30:16 Window ahk_id 0x1105e8 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:30:16 Window ahk_id 0x1303f0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:30:16 ====== Running ======
+2018-10-17 12:30:42 ====== Cleaning up ======
+2018-10-17 12:30:42 ====== Exiting bug.n ======
+2018-10-17 12:30:43 ====== Initializing ======
+2018-10-17 12:30:43 Window ahk_id 0x1a0520 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:30:43 Window ahk_id 0x1d01f4 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:30:43 ====== Running ======
+2018-10-17 12:31:11 ====== Cleaning up ======
+2018-10-17 12:31:11 ====== Exiting bug.n ======
+2018-10-17 12:31:11 ====== Initializing ======
+2018-10-17 12:31:12 Window ahk_id 0x1c02b0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:12 Window ahk_id 0x1c0524 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:12 ====== Running ======
+2018-10-17 12:31:22 ====== Cleaning up ======
+2018-10-17 12:31:23 ====== Exiting bug.n ======
+2018-10-17 12:31:23 ====== Initializing ======
+2018-10-17 12:31:23 Window ahk_id 0x1c0528 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:23 Window ahk_id 0x1703f0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:23 ====== Running ======
+2018-10-17 12:31:40 ====== Cleaning up ======
+2018-10-17 12:31:40 ====== Exiting bug.n ======
+2018-10-17 12:31:40 ====== Initializing ======
+2018-10-17 12:31:41 Window ahk_id 0x16052e process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:41 Window ahk_id 0x2101f4 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:41 ====== Running ======
+2018-10-17 12:31:46 ====== Cleaning up ======
+2018-10-17 12:31:47 ====== Exiting bug.n ======
+2018-10-17 12:31:47 ====== Initializing ======
+2018-10-17 12:31:47 Window ahk_id 0x1d04d2 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:47 Window ahk_id 0x200524 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:48 ====== Running ======
+2018-10-17 12:31:50 ====== Cleaning up ======
+2018-10-17 12:31:51 ====== Exiting bug.n ======
+2018-10-17 12:31:51 ====== Initializing ======
+2018-10-17 12:31:51 Window ahk_id 0x1f021a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:51 Window ahk_id 0x1b03f0 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 12:31:51 ====== Running ======
+2018-10-17 13:16:20 ====== Cleaning up ======
+2018-10-17 13:16:21 ====== Exiting bug.n ======
+2018-10-17 13:16:21 ====== Initializing ======
+2018-10-17 13:16:21 Window ahk_id 0x100270 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 13:16:21 Window ahk_id 0x2501f4 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 13:16:21 ====== Running ======
+2018-10-17 13:28:10 ====== Cleaning up ======
+2018-10-17 13:28:11 ====== Exiting bug.n ======
+2018-10-17 13:29:41 ====== Initializing ======
+2018-10-17 13:29:41 Window ahk_id 0x20360 process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x202dc process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x702d8 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0xa058e process '' doesn't match expected 'WINWORD.EXE', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x1c05e8 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x110270 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x10820 process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x107c0 process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x30810 process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x602fe process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x16098a process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0xc0990 process '' doesn't match expected 'explorer.exe', forgetting this window
+2018-10-17 13:29:41 Window ahk_id 0x306ee process '' doesn't match expected 'SystemSettings.exe', forgetting this window
+2018-10-17 13:29:41 ====== Running ======
+2018-10-17 14:03:57 ====== Cleaning up ======
+2018-10-17 14:03:58 ====== Exiting bug.n ======
+2018-10-18 08:54:31 ====== Initializing ======
+2018-10-18 08:54:31 View (2, 1) is no longer available (10)
+2018-10-18 08:54:31 View (2, 2) is no longer available (10)
+2018-10-18 08:54:31 View (2, 3) is no longer available (10)
+2018-10-18 08:54:31 View (2, 4) is no longer available (10)
+2018-10-18 08:54:31 View (2, 5) is no longer available (10)
+2018-10-18 08:54:31 View (2, 6) is no longer available (10)
+2018-10-18 08:54:31 View (2, 7) is no longer available (10)
+2018-10-18 08:54:31 View (2, 8) is no longer available (10)
+2018-10-18 08:54:31 View (2, 9) is no longer available (10)
+2018-10-18 08:54:31 Window ahk_id 0x10160 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x101bc process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x101b6 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x101a4 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x30064 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x209bc process '' doesn't match expected 'MobaXterm.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x30232 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x10502 process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x3022c process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x101c2 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x101b0 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x702ce process '' doesn't match expected 'powershell.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x108e8 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x305e0 process '' doesn't match expected 'ubuntu1804.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x70924 process '' doesn't match expected 'MobaXterm.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x608d8 process '' doesn't match expected 'MobaXterm.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x40ddc process '' doesn't match expected 'XWin_MobaX.exe', forgetting this window
+2018-10-18 08:54:31 Window ahk_id 0x409ce process '' doesn't match expected 'MobaXterm.exe', forgetting this window
+2018-10-18 08:54:32 ====== Running ======
+2018-10-18 15:10:23 ====== Cleaning up ======
+2018-10-18 15:10:32 ====== Exiting bug.n ======
+2018-10-19 08:57:53 ====== Initializing ======
+2018-10-19 08:57:53 Window ahk_id 0x50578 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x10392 process 'SurfaceDTX.exe' doesn't match expected 'lync.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x10450 process 'chrome.exe' doesn't match expected '', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x10454 process 'chrome.exe' doesn't match expected '', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x103fc process '' doesn't match expected 'Teams.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x2026a process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x10452 process 'chrome.exe' doesn't match expected '', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x10570 process 'bugn.exe' doesn't match expected '', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x1058e process 'bugn.exe' doesn't match expected '', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x1074c process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x106ee process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x3073c process '' doesn't match expected 'IEXPLORE.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x402e8 process '' doesn't match expected 'OUTLOOK.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x108d6 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x1c02f6 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x90272 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x512ea process '' doesn't match expected 'notepad.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x240b8a process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x40bc6 process '' doesn't match expected 'WINWORD.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x2401a4 process '' doesn't match expected 'WINWORD.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x409b8 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x60156 process '' doesn't match expected 'SystemSettings.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x70ece process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0xb04fe process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x40c78 process '' doesn't match expected 'HxOutlook.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x15093a process '' doesn't match expected 'bugn.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x4129a process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x812d2 process '' doesn't match expected 'chrome.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x1a0918 process '' doesn't match expected 'cmd.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x1d0cce process '' doesn't match expected 'POWERPNT.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x50ed8 process '' doesn't match expected 'ssms.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0xb09b2 process '' doesn't match expected 'ssms.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x1e04c4 process '' doesn't match expected 'WinStore.App.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x171162 process '' doesn't match expected 'ApplicationFrameHost.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x40f8e process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x560534 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x3911e8 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0xb05e8 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x140906 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x1411f0 process '' doesn't match expected 'lync.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0xe0e34 process '' doesn't match expected 'devenv.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x2209f8 process '' doesn't match expected 'ServiceHub.Host.CLR.x86.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x3912c6 process '' doesn't match expected 'ScriptedSandbox64.exe', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x1c0b54 process '' doesn't match expected 'Explorer.EXE', forgetting this window
+2018-10-19 08:57:53 Window ahk_id 0x190618 process '' doesn't match expected 'SetupHost.exe', forgetting this window
+2018-10-19 08:57:53 ====== Running ======
+2018-10-19 10:44:54 ====== Cleaning up ======
+2018-10-19 10:44:55 ====== Exiting bug.n ======
